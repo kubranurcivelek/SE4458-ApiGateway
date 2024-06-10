@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lLieVO88W+AYfSs0ZNyWo6qumjf8WcxbxBTurDgwbs8=",
+  "Source": "HotelBookingGateway",
+  "BasePath": "_content/HotelBookingGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
